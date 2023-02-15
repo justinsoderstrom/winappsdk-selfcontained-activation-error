@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "WinAppSDKSelfContainedActivationError (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "WinAppSDKSelfContainedActivationError (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
